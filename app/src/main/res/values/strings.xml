@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Walk It Off</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="alarm_on_toast">Walk It Off On!</string>
+    <string name="alarm_off_toast">Walk It Off Off!</string>
+    <string name="notification_title">Walk It Off Alert</string>
+    <string name="notification_text">You should stand up and walk around now!</string>
+    <string name="alarm_off">Alarm off</string>
+    <string name="alarm_on">Alarm on</string>
+
+</resources>
